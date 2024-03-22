@@ -1,0 +1,19 @@
+{
+  "name": "fcc-backend-npm",
+  "version": "1.0.0",
+  "description": "For freeCodeCamp backend course practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cctina/FCC-backend-npm.git"
+  },
+  "author": "Yu-Chen Hsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cctina/FCC-backend-npm/issues"
+  },
+  "homepage": "https://github.com/cctina/FCC-backend-npm#readme"
+}
