@@ -1,2 +1,2 @@
 # FCC-backend-npm
-For freeCodeCamp backend course prractice
+For freeCodeCamp backend course practice
